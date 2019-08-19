@@ -478,3 +478,4 @@ collections:
                 required: false
                 hint: Position for sorting
                 valueType: int
+publish_mode: editorial_workflow
