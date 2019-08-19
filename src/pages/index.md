@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: heroblock
-    title: This is a hero headline.
+    title: Abigail Rumsey
     section_id: hero
     component: HeroBlock
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### User experience designer'
     image: images/avatar.png
   - type: contentblock
     title: Text
