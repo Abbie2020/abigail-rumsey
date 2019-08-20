@@ -12,25 +12,7 @@ sections:
     section_id: intro
     component: ContentBlock
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. <mark>Maecenas ornare vulputate nisi sed
-      condimentum.</mark> Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+      Hi, I’m <mark>Abbie</mark>. I’m a <mark>user experience designer</mark> looking for a new challenge in a new part of the world. I have built up my <mark>UX skills</mark> over the past eight years working on a variety of projects in both international development and scientific publishing. I find there is nothing more useful to my job than spending time talking to <mark>real life users</mark>. I keep up-to-date by attending local UX and product meetups, plus reading the internet (almost finished!). My passion is <mark>nerding out with technology</mark>. I’m into <mark>prototyping</mark> using whatever tools are necessary. I am currently teaching myself front end web development, including <mark>HTML, CSS and Javascript</mark>, and aim to learn React next.
   - type: postlist
     title: Recent Posts
     section_id: posts
