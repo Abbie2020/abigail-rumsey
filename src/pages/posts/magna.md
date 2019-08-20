@@ -1,11 +1,9 @@
 ---
-title: Magna etiam sed lorem ipsum dolor
-subtitle: A cautionary tale about Magna etiam
-excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
-date: '2016-09-04'
+title: The one where we went mobile
+subtitle: Designing a responsive Plantwise Knowledge Bank
+content_img_path: /images/pwkb-on-samsung-med-res.jpg
+excerpt: ''
+date: 2019-08-19T23:00:00.000Z
 thumb_img_path: images/art.svg
 template: post
 ---
