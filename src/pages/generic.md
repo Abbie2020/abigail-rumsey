@@ -1,9 +1,9 @@
 ---
-title: Just a Generic Page
-subtitle: Just a generic subtitle for the page
+title: Project 1
+subtitle: ''
 menus:
   main:
-    title: Generic
+    title: Project 1
     weight: 2
 template: page
 ---
