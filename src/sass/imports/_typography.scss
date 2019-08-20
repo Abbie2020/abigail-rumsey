@@ -81,3 +81,9 @@ strong {
 pre {
     font-size: 0.8rem;
 }
+
+mark {
+	background-color: $red;
+	color: white;
+	padding: 0 0.2em;
+}
