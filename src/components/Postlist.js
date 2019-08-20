@@ -15,7 +15,7 @@ export default class Postlist extends React.Component {
                                                    alt={_.get(post, 'frontmatter.title')}/>}
                     <div class="copy">
                         <h2>{_.get(post, 'frontmatter.title')}</h2>
-                        <h3 class="publish-date">Published on {moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</h3>
+//                         <h3 class="publish-date">Published on {moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</h3>
                         <p class="summary">{_.get(post, 'frontmatter.excerpt')}</p>
                         <div class="text-link">Read more</div>
                     </div>
