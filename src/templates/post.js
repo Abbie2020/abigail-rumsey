@@ -19,7 +19,7 @@ export default class Post extends React.Component {
                         {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                         <h3>{htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}</h3>
                         }
-                        <h3 class="publish-date">{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%A, %B %e, %Y')}</h3>
+//                         <h3 class="publish-date">{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%A, %B %e, %Y')}</h3>
                     </div>
                 </header>
                 <div class="content">
