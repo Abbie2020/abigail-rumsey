@@ -2,22 +2,33 @@
 title: The one where we went mobile
 subtitle: Designing a responsive Plantwise Knowledge Bank
 content_img_path: /images/pwkb-on-samsung-med-res.jpg
-excerpt: ''
+excerpt: >-
+  More and more users of the Plantwise Knowledge Bank were visiting on a
+  smartphone so we redesigned the site to be mobile-first.
 date: 2019-08-19T23:00:00.000Z
 thumb_img_path: /images/pwkb-on-samsung-low-res.jpg
 template: post
 ---
-<section class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.</p>
-  <img src="/images/art.svg" class="block-image"/>
-  <p>Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.</p>
-  <p>Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque.<img src="/images/art.svg" class="inline-image"/> Sed maximus massa at nisl lobortis efficitur vel nec risus. Aenean tincidunt et lectus vel dapibus. Fusce pellentesque id felis id faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nibh non elit vulputate placerat. Sed vitae lacinia ligula. Sed suscipit eu nulla sit amet feugiat. Nullam ut ultricies nulla, at convallis massa. Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.</p>
-  <h3>This is a H3. Use it for subheads and subsections. </h3>
-  <p>Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget <a href="/" class="text-link">this is an inline link</a> placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat.</p>
-  <hr />
-  <p>Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.</p>
-  <blockquote>
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices dignissim gravida. Curabitur pharetra turpis risus, eu bibendum ipsum maximus sed. Ut vel euismod elit. Proin neque erat, sagittis quis tortor ut, pharetra semper ligula. Nunc vehicula, diam in consectetur vestibulum, sem felis imperdiet nisi, ac interdum mi erat sit amet sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi ut nulla ornare, posuere ligula eget, convallis elit. Nullam cursus vel ex et lacinia. Nunc feugiat dictum purus, faucibus malesuada risus gravida a. Morbi a sagittis lectus. Nullam lacus mauris, luctus eget pharetra in, aliquet quis lorem. Morbi ornare rhoncus dapibus. Praesent eu ipsum a metus pretium dictum. Fusce egestas nibh mauris, at condimentum ex fringilla quis. Duis in accumsan orci. Morbi leo ligula, tincidunt ac diam ut, hendrerit lobortis metus."
-  </blockquote>
-  <p>Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus. Aenean tincidunt et lectus vel dapibus. Fusce pellentesque id felis id faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nibh non elit vulputate placerat. Sed vitae lacinia ligula. Sed suscipit eu nulla sit amet feugiat. Nullam ut ultricies nulla, at convallis massa.</p>
-</section>
+<section class="content case-study-detail">
+<h3>The solution</h3>
+			<ul>
+				<li>I created a <mark>mobile-first design</mark> for the website that centred around searching for a pest or crop. While users wanted to filter their results by country, they didn’t want to start their journey at a country homepage as previously thought.</li>
+				<li>As the main page that users visited was the pest species page, which has a lot of information on it, I created distinct sections with large images so that users could check that they were looking at the right pest</li>
+				<li>I added in <mark>HTML, responsive, versions of content</mark> that had previously only been in PDF so that users could easily view this on a mobile device</li>
+				<li>I also added ‘share’ options as agricultural extension officers like to share the pest management information that they’ve found with farmers they are helping</li>
+			</ul>
+			</section>
+
+<section class="content case-study-detail">
+			<h3>How I approached the project</h3>
+			<ul>
+			<li>I led the <mark>user research</mark> exercise, using our existing personas and an on-site questionnaire. I used Google Analytics and FullStory to find out what information users are looking for and the pathways that they take to get to that information.
+</li>
+			<blockquote>It was clear that most users were coming to the PWKB to find information about a specific pest. They usually knew the name of the pest and many were looking for information specific to their country.</blockquote>
+            <li>As the user journey was different to what was thought when the site was originally designed, <mark>I pushed to completely redesign the site rather than just convert the existing site to be responsive.</mark></li>
+			<li>I ran a <mark>sketch workshop</mark> (Crazy 8s) with the PWKB team to get everyone’s ideas for mobile designs of each part of the site</li>
+			<li>I created <mark>interactive wireframes in Axure</mark> based on our sketches</li>
+			<li>I <mark>tested the wireframes with plant doctors in Kenya</mark>. They were able to complete tasks such as searching for pest information. They also gave me a great insight into how they would use the website as part of their job.
+</li>
+			</ul>
+			</section>
