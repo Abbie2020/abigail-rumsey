@@ -46,7 +46,7 @@ template: post
 			</ul>
 			</section>
 
-<figure>
+<figure class="block-image">
   <img src="/images/kenya-tablet-georgemwembe-low-res.jpg" alt="Plant doctor assisting farmer using Android tablet in Kenya"/>
   <figcaption>Plant doctors can now easily access crop advice from the Plantwise Knowledge Bank on their smartphones and tablets</figcaption>
 </figure>
