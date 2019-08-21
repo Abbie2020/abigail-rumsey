@@ -10,6 +10,10 @@ thumb_img_path: /images/pwkb-on-samsung-low-res.jpg
 template: post
 ---
 <section class="content case-study-detail">
+			<p>46% of users in the past year had visited from a mobile or tablet but the site was not mobile responsive leading to a poor user experience on any device with a small screen</p>
+			</section>
+
+<section class="content case-study-detail">
 <h3>The solution</h3>
 			<ul>
 				<li>I created a <mark>mobile-first design</mark> for the website that centred around searching for a pest or crop. While users wanted to filter their results by country, they didn’t want to start their journey at a country homepage as previously thought.</li>
@@ -30,5 +34,13 @@ template: post
 			<li>I created <mark>interactive wireframes in Axure</mark> based on our sketches</li>
 			<li>I <mark>tested the wireframes with plant doctors in Kenya</mark>. They were able to complete tasks such as searching for pest information. They also gave me a great insight into how they would use the website as part of their job.
 </li>
+			</ul>
+			</section>
+
+<section class="content case-study-detail">
+			<h3>Impact</h3>
+			<ul>
+				<li>Feedback on the wireframes from plant doctors was positive with them particularly happy that they could view key content on their smartphones or tablets, and that they could share content with farmers on WhatsApp</li>
+				<li>Since launch of the new site in July 2019, there has been a 28% increase in pageviews</li>
 			</ul>
 			</section>
