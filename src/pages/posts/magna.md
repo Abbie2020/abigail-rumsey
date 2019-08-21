@@ -4,7 +4,7 @@ subtitle: Designing a responsive Plantwise Knowledge Bank
 content_img_path: /images/pwkb-on-samsung-med-res.jpg
 excerpt: ''
 date: 2019-08-19T23:00:00.000Z
-thumb_img_path: images/art.svg
+thumb_img_path: /images/pwkb-on-samsung-low-res.jpg
 template: post
 ---
 <section class="content">
