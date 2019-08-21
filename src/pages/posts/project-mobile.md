@@ -28,9 +28,9 @@ template: post
 			<ul>
 			<li>I led the <mark>user research</mark> exercise, using our existing personas and an on-site questionnaire. I used Google Analytics and FullStory to find out what information users are looking for and the pathways that they take to get to that information.
 </li>
-			<blockquote>It was clear that most users were coming to the PWKB to find information about a specific pest. They usually knew the name of the pest and many were looking for information specific to their country.</blockquote>
+			<blockquote>It was clear that most users were coming to the Plantwise Knowledge Bank to find information about a specific pest. They usually knew the name of the pest and many were looking for information specific to their country.</blockquote>
             <li>As the user journey was different to what was thought when the site was originally designed, <mark>I pushed to completely redesign the site rather than just convert the existing site to be responsive.</mark></li>
-			<li>I ran a <mark>sketch workshop</mark> (Crazy 8s) with the PWKB team to get everyone’s ideas for mobile designs of each part of the site</li>
+			<li>I ran a <mark>sketch workshop</mark> (Crazy 8s) with the Plantwise Knowledge Bank team to get everyone’s ideas for mobile designs of each part of the site</li>
 			<li>I created <mark>interactive wireframes in Axure</mark> based on our sketches</li>
 			<li>I <mark>tested the wireframes with plant doctors in Kenya</mark>. They were able to complete tasks such as searching for pest information. They also gave me a great insight into how they would use the website as part of their job.
 </li>
@@ -41,6 +41,9 @@ template: post
 			<h3>Impact</h3>
 			<ul>
 				<li>Feedback on the wireframes from plant doctors was positive with them particularly happy that they could view key content on their smartphones or tablets, and that they could share content with farmers on WhatsApp</li>
-				<li>Since launch of the new site in July 2019, there has been a 28% increase in pageviews</li>
+				<li>Since launch of the new site in July 2019, there has been a 28% increase in pageviews
+</li>
 			</ul>
 			</section>
+
+![Plant doctor assisting farmer using Android tablet in Kenya](/images/kenya-tablet-georgemwembe-low-res.jpg "Plant doctors can now easily access crop advice from the Plantwise Knowledge Bank on their smartphones and tablets")
