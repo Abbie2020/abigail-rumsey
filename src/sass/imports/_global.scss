@@ -70,7 +70,7 @@ blockquote {
 .content {
     margin: 0 0 1rem 0;
 
-    .inline-image {
+    .inline-image-left {
         float: left;
         max-width: calc(50% - 1rem);
         margin: 1rem 1.5rem 1rem 0;
@@ -82,6 +82,19 @@ blockquote {
             width: 100%;
         }
     }
+	 
+	.inline-image-right {
+        float: right;
+        max-width: calc(50% - 1rem);
+        margin: 1rem 0 1rem 1.5rem;
+
+        @media screen and (max-width: $mobile) {
+            display: block;
+            max-width: 100%;
+            margin: 1rem 0;
+            width: 100%;
+        }
+    } 
 
     .block-image {
         display: block;
@@ -94,6 +107,7 @@ blockquote {
 
     img {
         max-width: 100%;
+		border: 1px solid #555555;	
     }
 }
 
