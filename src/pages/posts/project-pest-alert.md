@@ -3,8 +3,9 @@ title: The one where we alerted farmers
 subtitle: Designing simple messages for farmers from complex science
 content_img_path: /images/Zambia-user-interview-2.jpg
 excerpt: >-
-  40% of the world’s crops are lost to pests and diseases. Farmers in developing countries need early warning of pests so that they can take swift action.
-date: '2019-08-01'
+  40% of the world’s crops are lost to pests and diseases. Farmers in developing
+  countries need early warning of pests so that they can take swift action.
+date: 2019-06-30T23:00:00.000Z
 thumb_img_path: images/Zambia-user-interview.jpg
 template: post
 ---
