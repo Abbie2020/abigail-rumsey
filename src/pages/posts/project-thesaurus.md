@@ -41,8 +41,11 @@ The optimum way for researchers to search CABI’s abstracts database, CAB Direc
   <img src="/images/entity-page-idea.png"  alt="A webpage showing information about Plasmodium falciparum from several different sources including Wikipedia and SciDevNet"/>
   <figcaption>Our keyword page idea showed information about a keyword from several different sources including Wikipedia and SciDevNet</figcaption>	
 </figure>	
-		<li>I created interactive prototypes of our ideas in Axure, which we then tested with researchers in universities in Bangkok, Thailand and Kuala Lumpur, Malaysia</li>
+		<li>I created interactive prototypes of our ideas in Axure, which we then tested with undergraduate students, doctoral students, post docs and lecturer/researchers in universities in Bangkok, Thailand and Kuala Lumpur, Malaysia</li>
 		<blockquote>We weren’t sure if academics would approve of the keyword modal containing information from Wikipedia articles but they said they searched Wikipedia themselves if they were unfamiliar with a word</blockquote>
+<li>The keyword modal idea was well received by the users we tested with. The consensus was that the Wikipedia information would be most useful for those new to a subject, particularly undergraduate students. Those who were more advanced in their research were already knowledgeable about the terminology in their subject area and so didn’t require definitions of words. However, everyone was interested in being able to view related keywords so that they could expand or refine their searches using these words.</li>
+<li>As an additional comms piece, I edited together a user interview highlights reel, which we presented at the UX roadshow we ran for World Usability Day in 2017. This helped us to communicate what we were doing to our colleagues within CABI, and demonstrate that this was backed up with evidence gained from user research.</li>
+<li>We next hope to implement the suggested search feature to aid users right from the start of their research journey.</li>
 		<figure class="inline-image-right">
   <img src="/images/entity-popup-mockup.png" alt="A modal showing information about the keyword from the Thesaurus and Wikipedia"/>
   <figcaption>The final design was a modal showing information about the keyword from the Thesaurus and Wikipedia</figcaption>
