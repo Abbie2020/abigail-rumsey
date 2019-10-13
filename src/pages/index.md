@@ -23,7 +23,7 @@ sections:
     title: Text
     type: contentblock
   - component: Postlist
-    num_posts_displayed: 6
+    num_posts_displayed: 3
     section_id: posts
     title: Recent Posts
     type: postlist

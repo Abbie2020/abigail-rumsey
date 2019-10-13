@@ -5,7 +5,7 @@ content_img_path: /images/pwkb-on-samsung-med-res.jpg
 excerpt: >-
   More and more users of the Plantwise Knowledge Bank were visiting on a
   smartphone so we redesigned the site to be mobile-first.
-date: 2019-08-19T23:00:00.000Z
+date: 2019-09-29T23:00:00.000Z
 thumb_img_path: /images/pwkb-on-samsung-low-res.jpg
 template: post
 ---
