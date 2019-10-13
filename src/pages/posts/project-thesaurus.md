@@ -38,13 +38,13 @@ The optimum way for researchers to search CABI’s abstracts database, CAB Direc
 				<li>Keyword page - showed related articles and news, images and a chart of appearances in the literature - despite us thinking this was a cool idea, users didn’t find the information relevant to their workflows - they didn’t want to read news when they were trying to do research</li>
 				</ul>
 				
-<figure>	
+<figure class="inline-image-right">	
   <img src="/images/entity-page-idea.png"  alt="A webpage showing information about Plasmodium falciparum from several different sources including Wikipedia and SciDevNet"/>
   <figcaption>Our keyword page idea showed information about a keyword from several different sources including Wikipedia and SciDevNet</figcaption>	
 </figure>	
 		<li>I created interactive prototypes of our ideas in Axure, which we then tested with researchers in universities in Bangkok, Thailand and Kuala Lumpur, Malaysia</li>
 		<blockquote>We weren’t sure if academics would approve of the keyword modal containing information from Wikipedia articles but they said they searched Wikipedia themselves if they were unfamiliar with a word</blockquote>
-		<figure class="inline-image-right">
+		<figure>
   <img src="/images/entity-popup-mockup.png" alt="A modal showing information about the keyword from the Thesaurus and Wikipedia"/>
   <figcaption>The final design was a modal showing information about the keyword from the Thesaurus and Wikipedia</figcaption>
 </figure>
