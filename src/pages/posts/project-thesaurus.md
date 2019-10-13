@@ -31,7 +31,7 @@ The optimum way for researchers to search CABI’s abstracts database, CAB Direc
 </figure>
 		
 		
-		<li>Users were not keen on the tree-based navigation of keywords so we tested other ideas:</li>
+		<li>Users were not keen on the tree-based navigation of keywords so, in our next iteration, we tested other ideas:</li>
 				<ul><li>Suggested search - keywords are suggested below the search box as the user starts to type - this helps prevent typos (one user said it helped her as she is dyslexic) and suggests phrasing that users might not have thought of</li>
 				<li>Keyword modal - keywords are highlighted within the journal paper abstract - this helps users who are less familiar with the subject of the paper (particularly students) get a better understanding of what the paper is about, and also suggests related keywords to improve their searches</li>
 				<li>Keyword page - showed related articles and news, images and a chart of appearances in the literature - despite us thinking this was a cool idea, users didn’t find the information relevant to their workflows - they didn’t want to read news when they were trying to do research</li>
