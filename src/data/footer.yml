@@ -1,5 +1,8 @@
-content: '&copy; Abigail Rumsey. All rights reserved.'
+content: 'Made with Stackbit &copy; Abigail Rumsey. All rights reserved.'
 links:
   - new_window: true
-    text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+    text: LinkedIn
+    url: 'https://www.linkedin.com/in/abigailrumsey/'
+  - new_window: true
+    text: Twitter
+    url: 'https://www.twitter.com/Abbie2020'
