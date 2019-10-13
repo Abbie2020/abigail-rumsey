@@ -6,7 +6,7 @@ excerpt: >-
   We wanted to help users in their searches of CABI's abstracts database by
   providing extra information about the keywords, and suggesting additional or
   alternative keywords.
-date: 2019-08-02T23:00:00.000Z
+date: 2019-08-29T23:00:00.000Z
 thumb_img_path: /images/user-looking-at-keywords-low-res.png
 template: post
 ---
