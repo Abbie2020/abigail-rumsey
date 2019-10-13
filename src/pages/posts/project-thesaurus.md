@@ -2,7 +2,10 @@
 title: The one where we added meaning
 subtitle: Designing a better-informed information discovery experience
 content_img_path: /images/user-looking-at-keywords-low-res.png
-excerpt: 'The optimum way for researchers to search CABI’s abstracts database, CAB Direct, is using standardised keywords from the CAB Thesaurus. However, most users wouldn’t know this so we wanted to help them in their searches by providing extra information about the keywords.'
+excerpt: >-
+  We wanted to help users in their searches of CABI's abstracts database by
+  providing extra information about the keywords, and suggesting additional or
+  alternative keywords.
 date: '2019-08-02'
 thumb_img_path: /images/user-looking-at-keywords-low-res.png
 template: post
