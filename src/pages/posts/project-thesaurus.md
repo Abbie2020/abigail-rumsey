@@ -43,8 +43,13 @@ The optimum way for researchers to search CABI’s abstracts database, CAB Direc
   <figcaption>Our keyword page idea showed information about a keyword from several different sources including Wikipedia and SciDevNet</figcaption>	
 </figure>	
 
-<li>I created <mark>interactive prototypes</mark> of our ideas in Axure, which we then tested with undergraduate students, doctoral students, post docs and lecturer/researchers in universities in Bangkok and Kuala Lumpur</li><blockquote>We weren’t sure if academics would approve of the keyword modal containing information from Wikipedia articles but they said they searched Wikipedia themselves if they were unfamiliar with a word</blockquote>
+<li>I created <mark>interactive prototypes</mark> of our ideas in Axure, which we then tested with undergraduate students, doctoral students, post docs and lecturer/researchers in universities in Bangkok and Kuala Lumpur</li>
+</ul>
+<blockquote>We weren’t sure if academics would approve of the keyword modal containing information from Wikipedia articles but they said they searched Wikipedia themselves if they were unfamiliar with a word</blockquote>
 
+<section class="content case-study-detail">
+	<h3>Impact</h3>
+<ul>
 <li>The keyword modal idea was well received by the users we tested with. The consensus was that the <mark>Wikipedia information would be most useful for those new to a subject</mark>, particularly undergraduate students. Those who were more advanced in their research were already knowledgeable about the terminology in their subject area and so didn’t require definitions of words. However, <mark>everyone was interested in being able to view related keywords</mark> so that they could expand or refine their searches using these words.
 </li>
 <li>As an additional comms piece, I <mark>edited together a user interview highlights reel</mark>, which we presented at the UX roadshow we ran for World Usability Day. This helped us to communicate what we were doing to our colleagues within CABI, and demonstrate that this was backed up with evidence gained from user research.</li>
