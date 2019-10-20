@@ -15,6 +15,10 @@ template: post
 
 <section class="content case-study-detail">
 <h3>The solution</h3>
+<figure class="inline-image-right">
+  <img src="/images/PWKB-grayscale-search-results-factsheets.png" alt="Grayscale wireframe of search results on the Plantwise Knowledge Bank"/>
+  <figcaption>Grayscale wireframe of search results on the Plantwise Knowledge Bank</figcaption>
+</figure>
 			<ul>
 				<li>I created a <mark>mobile-first design</mark> for the website that centred around searching for a pest or crop. While users wanted to filter their results by country, they didn’t want to start their journey at a country homepage as previously thought.</li>
 				<li>As the main page that users visited was the pest species page, which has a lot of information on it, I created distinct sections with large images so that users could check that they were looking at the right pest</li>
@@ -25,6 +29,10 @@ template: post
 
 <section class="content case-study-detail">
 			<h3>How I approached the project</h3>
+<figure class="inline-image-left">
+  <img src="/images/PWKB-grayscale-search-results.png" alt="Grayscale wireframe showing no search results on the Plantwise Knowledge Bank"/>
+  <figcaption>I designed for every state of each page, including a blank state such as no search results</figcaption>
+</figure>
 			<ul>
 			<li>I led the <mark>user research</mark> exercise, using our existing personas and an on-site questionnaire. I used Google Analytics and FullStory to find out what information users are looking for and the pathways that they take to get to that information.
 </li>
