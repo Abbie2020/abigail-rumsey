@@ -29,8 +29,8 @@ template: post
 
 <section class="content case-study-detail">
 			<h3>How I approached the project</h3>
-<figure class="inline-image-left">
-  <img src="/images/PWKB-grayscale-search-results.png" alt="Grayscale wireframe showing no search results on the Plantwise Knowledge Bank"/>
+<figure class="inline-image-right">
+  <img src="/images/PWKB-grayscale-search-results.png" alt="Grayscale wireframe showing no search results on the Plantwise Knowledge Bank">
   <figcaption>I designed for every state of each page, including a blank state such as no search results</figcaption>
 </figure>
 			<ul>
